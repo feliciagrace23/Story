@@ -6,3 +6,5 @@ git add
 git commit *file* -m "caption"
 git remot ***
 git push
+
+halo ini cerita 
