@@ -1,2 +1,8 @@
 hoa
 trial push commit
+
+git init
+git add
+git commit *file* -m "caption"
+git remot ***
+git push
